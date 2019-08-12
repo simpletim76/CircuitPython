@@ -1,0 +1,12 @@
+from adafruit_circuitplayground.express import cpx
+
+WHITE = (30, 30, 30)
+RED = (90, 0, 0)
+YELLOW = (45, 45, 0)
+GREEN = (0, 90, 0)
+AQUA = (0, 45, 45)
+BLUE = (0, 0, 90)
+PURPLE = (45, 0, 45)
+BLACK = (0, 0, 0)
+
+while True:
