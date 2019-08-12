@@ -1,0 +1,8 @@
+#notes of the scale A 440 and up
+NOTEA = 440
+NOTEB = 493
+NOTEC = 523
+NOTED = 587
+NOTEE = 659
+NOTEF = 698
+NOTEG = 783
