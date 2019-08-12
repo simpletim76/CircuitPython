@@ -1,3 +1,5 @@
+from adafruit_circuitplayground.express import cpx
+
 #notes of the scale A 440 and up
 NOTEA = 440
 NOTEB = 493
@@ -6,3 +8,5 @@ NOTED = 587
 NOTEE = 659
 NOTEF = 698
 NOTEG = 783
+
+while True:
